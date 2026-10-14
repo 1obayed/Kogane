@@ -1,0 +1,29 @@
+# IDE workspace
+/Workspace/
+**/.metadata/
+
+# Build outputs
+**/Debug/
+**/Release/
+**/build/
+**/dist/
+**/.pio/
+
+# Compiled firmware
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.o
+*.su
+
+# Firmware release packages
+**/Firmware-Release/
+*.zip
+
+# Temporary files
+*.log
+*~
+.DS_Store
+*.launch
